@@ -1,0 +1,36 @@
+{
+  "cursor.cpp.disabledLanguages": [
+    "rust",
+    "toml",
+    "markdown",
+    "json",
+    "jsonc",
+    "plaintext"
+  ],
+  "editor.inlineSuggest.enabled": false,
+  "github.copilot.enable": {
+    "*": false
+  },
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": false
+  },
+  "editor.suggestOnTriggerCharacters": true,
+  "editor.wordBasedSuggestions": "currentDocument",
+  "editor.suggest.showKeywords": true,
+  "editor.suggest.showWords": true,
+  "editor.suggest.showMethods": false,
+  "editor.suggest.showFunctions": false,
+  "editor.suggest.showSnippets": false,
+  "editor.suggest.showVariables": false,
+  "editor.suggest.showClasses": false,
+  "editor.suggest.showConstants": false,
+  "editor.suggest.showFields": false,
+  "editor.suggest.showModules": false,
+  "editor.suggest.showProperties": false,
+  "editor.suggest.showEnums": false,
+  "editor.suggest.showStructs": false,
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.tabCompletion": "off"
+}
